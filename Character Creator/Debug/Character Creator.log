@@ -1,0 +1,6 @@
+﻿  Character.cpp
+C:\Users\Brayd\source\repos\Character Creator\Character Creator\Character.cpp(80,15): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Brayd\source\repos\Character Creator\Character Creator\Character.cpp(227,20): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  Generating Code...
+  Character Creator.vcxproj -> C:\Users\Brayd\source\repos\Character Creator\Debug\Character Creator.exe
